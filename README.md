@@ -142,7 +142,7 @@
 |    Name    | ID                               |
 |:----------:|----------------------------------|
 |  Offer id  | B1E16EBD418B6892081A9C990F431AD4 |
-| Bundle id  |            soon                  |
+| Bundle id  | 2719FD6E4F264293B3B8B4842F272FCB |
 |  Level id   | C6CAE9BA435CF1B0BE4BE7865B9F4E0F |
 
 ## Season 20
