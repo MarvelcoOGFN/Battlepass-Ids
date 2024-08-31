@@ -117,9 +117,9 @@
 
 |    Name    | ID                               |
 |:----------:|----------------------------------|
-|  Offer id  |            soon                  |
-| Bundle id  |            soon                  |
-|  Level id   |            soon                  |
+|  Offer id  | 7A973F444663B3A522172FAE32751346 |
+| Bundle id  | 87C3990F72DB42C2A6116D2F5C8CAC57 |
+|  Level id   | 50558EA040438C481ACC59897D1B7AE4 |
 
 ## Season 17
 
