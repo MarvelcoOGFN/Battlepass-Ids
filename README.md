@@ -1,6 +1,7 @@
 # Battlepass ids used for backends
 
-### Credits for Tiva for some ids   
+### Credits for Tiva for s19 s20   
+### Credits for Zinx for s14 
 
 ## Season 2
 
@@ -101,8 +102,8 @@
 
 |    Name    | ID                               |
 |:----------:|----------------------------------|
-|  Offer id  |            soon                  |
-| Bundle id  |            soon                  |
+|  Offer id  | 6EFAD8A54BBFAF4F24FA17BFCA8A879E |
+| Bundle id  | CFD41EF842ABF9D3D84A84B0F717D900 |
 |  Level id   |            soon                  |
 
 ## Season 15
