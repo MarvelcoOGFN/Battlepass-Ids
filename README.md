@@ -104,7 +104,7 @@
 |:----------:|----------------------------------|
 |  Offer id  | 6EFAD8A54BBFAF4F24FA17BFCA8A879E |
 | Bundle id  | CFD41EF842ABF9D3D84A84B0F717D900 |
-|  Level id   |            soon                  |
+|  Level id   | 461F34C046269604EAC31481F34BC405 |
 
 ## Season 15
 
